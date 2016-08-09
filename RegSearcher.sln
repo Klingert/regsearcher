@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegSearcher", "RegSearcher.csproj", "{344E79F3-2315-4495-B569-2AB8CFC0C346}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4993CAF3-62BB-4E4C-8AF9-428AFF008EC2} = {4993CAF3-62BB-4E4C-8AF9-428AFF008EC2}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		ReleaseWithInstaller|Any CPU = ReleaseWithInstaller|Any CPU
+		ReleaseWithInstaller|x86 = ReleaseWithInstaller|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{344E79F3-2315-4495-B569-2AB8CFC0C346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344E79F3-2315-4495-B569-2AB8CFC0C346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344E79F3-2315-4495-B569-2AB8CFC0C346}.Debug|x86.ActiveCfg = Debug|x86
+		{344E79F3-2315-4495-B569-2AB8CFC0C346}.Debug|x86.Build.0 = Debug|x86
+		{344E79F3-2315-4495-B569-2AB8CFC0C346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344E79F3-2315-4495-B569-2AB8CFC0C346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{344E79F3-2315-4495-B569-2AB8CFC0C346}.Release|x86.ActiveCfg = Release|x86
+		{344E79F3-2315-4495-B569-2AB8CFC0C346}.Release|x86.Build.0 = Release|x86
+		{344E79F3-2315-4495-B569-2AB8CFC0C346}.ReleaseWithInstaller|Any CPU.ActiveCfg = Release|Any CPU
+		{344E79F3-2315-4495-B569-2AB8CFC0C346}.ReleaseWithInstaller|Any CPU.Build.0 = Release|Any CPU
+		{344E79F3-2315-4495-B569-2AB8CFC0C346}.ReleaseWithInstaller|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
